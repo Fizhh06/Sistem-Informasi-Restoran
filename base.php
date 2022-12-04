@@ -1,6 +1,6 @@
 <?php
 /**
-* Base rule file Uinsu-Web-Framework
+* 
 */
 
 /**
